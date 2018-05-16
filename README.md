@@ -1,7 +1,8 @@
-home-assistant-node-red
+# Home Assistant Node-RED Flows
 =======================
 
-Home Assistant Node-RED Flows
+This repository contains the Node-RED flows used within my Home 
+Assistant system. Ignore this for now, I'm just getting things setup.
 
 ### About
 
